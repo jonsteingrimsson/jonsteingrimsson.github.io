@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Jon Steingrimsson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Professor of Biostatistics."
   location         : "Brown University"
   email            : "jon_steingrimsson@brown.edu"
