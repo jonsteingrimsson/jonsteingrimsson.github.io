@@ -107,8 +107,8 @@ author:
   location         : "Brown University"
   email            : "jon_steingrimsson@brown.edu"
   links:
-      #- label: "jon\_steingrimsson@brown.edu"
-      #icon: "fas fa-fw fa-envelope-square"
+      - label: "jon\_steingrimsson@brown.edu"
+      icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
       #- label: "Website"
       #icon: "fas fa-fw fa-link"
