@@ -5,6 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-I am an assistant professor in the Department of Biostatistics at Brown University (Email: jon_steingrimsson@brown.edu). My main methodological research interests are machine learning for health data, survival analysis, and design and analysis of clinical trials. 
+I am an assistant professor in the Department of Biostatistics at Brown University (Email: jon_steingrimsson@brown.edu).
 
-My cv can be found here.
+My cv can be found <a href="CVWebsite.pdf">here</a>
